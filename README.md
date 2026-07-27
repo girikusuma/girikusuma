@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Custom Banner (Glassmorphism Dark Blue/Teal Theme) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132a,50:0f172a,100:0d3754&height=210&section=header&text=Giri%20Kusuma&fontSize=44&fontColor=ffffff&fontAlignY=40&subtext=Backend%20Developer%20%C2%B7%20Fullstack%20Developer&subtextFontSize=20&subtextY=72&subtextFontColor=38bdf8&radius=20" width="100%" alt="Header Banner" />
+  <!-- Header Typing Animation -->
+  <a href="https://github.com/girikusuma">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=50&lines=Hi+I'm+Giri+Kusuma;Fullstack+Developer;Golang+%7C+PHP+%7C+NestJS+%7C+Python;Building+Scalable+%26+High-Perf+APIs" alt="Typing SVG" />
+  </a>
 
   <br />
 
@@ -50,19 +52,3 @@ I focus on building backend services that provide seamless integrations, robust 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=go,php,nestjs,laravel,py,django,react,nextjs,html,css,js,wordpress,mysql,postgres,mongodb,docker,git,vscode,postman,github,linux" alt="Tech Stack and Tools" />
 </a>
-
----
-
-### GitHub Statistics
-
-<div align="center">
-
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girikusuma&theme=dark&background=0D1117&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak Stats" />
-
-  <br /><br />
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girikusuma&theme=react-dark&bg_color=0D1117&hide_border=true&color=38BDF8&line=38BDF8&point=38BDF8" width="100%" alt="Contribution Graph" />
-
-</div>
