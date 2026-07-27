@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**girikusuma/girikusuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Header Banner / Typing Effect -->
+  <a href="https://www.girikusuma.online/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B+I'm+Giri+Kusuma;Backend+%26+Fullstack+Developer;Golang+%7C+PHP+%7C+NestJS+%7C+Python;Building+Scalable+%26+High-Perf+APIs" alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Quick Badges & Links -->
+  <a href="https://www.girikusuma.online/">
+    <img src="https://img.shields.io/badge/Website-girikusuma.online-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/giri-kusuma-b57056218">
+    <img src="https://img.shields.io/badge/LinkedIn-Giri_Kusuma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:girikusuma7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-girikusuma7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/uc?export=download&id=1Roxi3qlP28GfBRk84dM2kQGNiT6HJ08M">
+    <img src="https://img.shields.io/badge/Download-CV-059669?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV Download" />
+  </a>
+
+</div>
+
+<hr />
+
+### 👨‍💻 About Me
+
+Backend Developer berpengalaman dalam merancang, mengoptimalkan, dan memelihara sistem berkinerja tinggi. Memiliki keahlian dalam **Database Design**, **API Development**, **Sistem Kasir & E-Commerce**, serta **Integrasi Payment Gateway & ASPI Banking**.
+
+- 📍 Berdomisili di: **Bali, Indonesia**
+- 🎓 Lulusan: **Computer Science - Udayana University (GPA: 3.83)**
+- 💼 Pekerjaan Saat Ini: **Full Stack Developer di PT. Jangkar Teknologi Indonesia**
+- ⚡ Fokus Utama: **High Concurrency APIs, Database Optimization, Microservices architecture**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| Kategori | Technologies |
+| :--- | :--- |
+| **Backend** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<details open>
+<summary><b>🛒 Turu — E-Commerce Application</b></summary>
+<br />
+Aplikasi E-commerce untuk brand Turu dengan backend berkinerja tinggi.<br />
+<code>NestJS</code> • <code>Next.js</code> • <code>PostgreSQL</code>
+</details>
+
+<details open>
+<summary><b>🏬 TWIN — Enterprise Operations System</b></summary>
+<br />
+Sistem internal perusahaan untuk manajemen logistik, gudang, absensi, hingga reimbursement.<br />
+<code>Golang</code> • <code>React JS</code> • <code>MySQL</code>
+</details>
+
+<details>
+<summary><b>💳 Integrasi System & Core API</b></summary>
+<br />
+
+- **E-Commerce Core API**: Dirancang khusus penanganan *race condition* saat *flash sale high-load*.
+- **Payment Gateway Integration**: Integrasi Midtrans & Tripay untuk sistem transaksi otomatis.
+- **ASPI Bank Integration**: Integrasi sistem perbankan berstandar ASPI untuk otomasi *payroll*.
+</details>
+
+<details>
+<summary><b>🛍️ Baiko & 📚 Sindi Bekerja</b></summary>
+<br />
+
+- **Baiko**: Platform aplikasi penjualan produk & makanan secara online (PHP, React JS).
+- **Sindi Bekerja**: Aplikasi penjadwalan perkuliahan Fakultas Ekonomi & Bisnis Universitas Udayana (Django).
+</details>
+
+---
+
+### 💼 Work Experience
+
+```text
+💼 PT. Jangkar Teknologi Indonesia | Full Stack Developer (2022 — Present)
+ ┣ 🔹 Enhancement & Feature Development pada sistem perusahaan
+ ┣ 🔹 Database Design & Data Structure Optimization
+ ┗ 🔹 Development Restful API & Backend Troubleshooting
+
+💼 PT. Trees Solutions | Back End Developer (2022)
+ ┣ 🔹 API Development & System Integration
+ ┗ 🔹 Debugging & Troubleshooting Backend Performance
+
+💼 PT. Bangun Inovasi Teknologi | Programmer (2021 — 2022)
+ ┣ 🔹 Planning, System Architecture & Database Design
+ ┗ 🔹 Web Performance Management & Maintenance
