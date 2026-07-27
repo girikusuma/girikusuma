@@ -1,16 +1,13 @@
 <div align="center">
 
   <!-- Header Typing Animation -->
-  <a href="https://www.girikusuma.online/">
+  <a href="https://github.com/girikusuma">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B+I'm+Giri+Kusuma;Backend+%26+Fullstack+Developer;Golang+%7C+PHP+%7C+NestJS+%7C+Python;Building+Scalable+%26+High-Perf+APIs" alt="Typing SVG" />
   </a>
 
   <br />
 
   <!-- Quick Badges -->
-  <a href="https://www.girikusuma.online/">
-    <img src="https://img.shields.io/badge/Website-girikusuma.online-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
   <a href="https://www.linkedin.com/in/giri-kusuma-b57056218/">
     <img src="https://img.shields.io/badge/LinkedIn-Giri_Kusuma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -50,20 +47,8 @@ I focus on building backend services that provide seamless integrations, robust 
   </a>
 </p>
 
-### Core Tech Stacks
+### Tech Stack & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,php,nestjs,laravel,py,django" alt="Core Tech Stacks" />
-</a>
-
-### Other Tech Stacks
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,wordpress,mysql,postgres,mongodb,docker,git" alt="Other Tech Stacks" />
-</a>
-
-### Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github,linux,ubuntu" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=go,php,nestjs,laravel,py,django,react,nextjs,html,css,js,wordpress,mysql,postgres,mongodb,docker,git,vscode,postman,github,linux" alt="Tech Stack and Tools" />
 </a>
