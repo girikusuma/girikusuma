@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Banner / Typing Effect -->
+  <!-- Header Typing Animation -->
   <a href="https://www.girikusuma.online/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B+I'm+Giri+Kusuma;Backend+%26+Fullstack+Developer;Golang+%7C+PHP+%7C+NestJS+%7C+Python;Building+Scalable+%26+High-Perf+APIs" alt="Typing SVG" />
   </a>
@@ -27,12 +27,12 @@
 
 ### 👨‍💻 About Me
 
-Backend Developer berpengalaman dalam merancang, mengoptimalkan, dan memelihara sistem berkinerja tinggi. Memiliki keahlian dalam **Database Design**, **API Development**, **Sistem Kasir & E-Commerce**, serta **Integrasi Payment Gateway & ASPI Banking**.
+Experienced **Backend & Fullstack Developer** with a proven track record in developing, maintaining, and optimizing enterprise-grade systems and applications. Strong expertise in database design, API development, data structure optimization, and payment gateway integration.
 
-- 📍 Berdomisili di: **Bali, Indonesia**
-- 🎓 Lulusan: **Computer Science - Udayana University (GPA: 3.83)**
-- 💼 Pekerjaan Saat Ini: **Full Stack Developer di PT. Jangkar Teknologi Indonesia**
-- ⚡ Fokus Utama: **High Concurrency APIs, Database Optimization, Microservices architecture**
+- 📍 Based in: **Bali, Indonesia**
+- 🎓 Education: **B.S. in Computer Science — Udayana University (GPA: 3.83 / 4.00)**
+- 💼 Current Role: **Full Stack Developer at PT. Jangkar Teknologi Indonesia**
+- ⚡ Core Focus: **High Concurrency APIs, Database Optimization, Microservices & System Integration**
 
 ---
 
@@ -40,7 +40,7 @@ Backend Developer berpengalaman dalam merancang, mengoptimalkan, dan memelihara 
 
 <div align="center">
 
-| Kategori | Technologies |
+| Category | Technologies |
 | :--- | :--- |
 | **Backend** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
@@ -51,53 +51,21 @@ Backend Developer berpengalaman dalam merancang, mengoptimalkan, dan memelihara 
 
 ---
 
-### 🚀 Featured Projects
-
-<details open>
-<summary><b>🛒 Turu — E-Commerce Application</b></summary>
-<br />
-Aplikasi E-commerce untuk brand Turu dengan backend berkinerja tinggi.<br />
-<code>NestJS</code> • <code>Next.js</code> • <code>PostgreSQL</code>
-</details>
-
-<details open>
-<summary><b>🏬 TWIN — Enterprise Operations System</b></summary>
-<br />
-Sistem internal perusahaan untuk manajemen logistik, gudang, absensi, hingga reimbursement.<br />
-<code>Golang</code> • <code>React JS</code> • <code>MySQL</code>
-</details>
-
-<details>
-<summary><b>💳 Integrasi System & Core API</b></summary>
-<br />
-
-- **E-Commerce Core API**: Dirancang khusus penanganan *race condition* saat *flash sale high-load*.
-- **Payment Gateway Integration**: Integrasi Midtrans & Tripay untuk sistem transaksi otomatis.
-- **ASPI Bank Integration**: Integrasi sistem perbankan berstandar ASPI untuk otomasi *payroll*.
-</details>
-
-<details>
-<summary><b>🛍️ Baiko & 📚 Sindi Bekerja</b></summary>
-<br />
-
-- **Baiko**: Platform aplikasi penjualan produk & makanan secara online (PHP, React JS).
-- **Sindi Bekerja**: Aplikasi penjadwalan perkuliahan Fakultas Ekonomi & Bisnis Universitas Udayana (Django).
-</details>
-
----
-
 ### 💼 Work Experience
 
 ```text
 💼 PT. Jangkar Teknologi Indonesia | Full Stack Developer (2022 — Present)
- ┣ 🔹 Enhancement & Feature Development pada sistem perusahaan
- ┣ 🔹 Database Design & Data Structure Optimization
- ┗ 🔹 Development Restful API & Backend Troubleshooting
+ ┣ 🔹 Enhancement & feature development on core company systems
+ ┣ 🔹 Database architecture design & data structure optimization
+ ┣ 🔹 Building RESTful APIs, integration & system testing
+ ┗ 🔹 Debugging & backend performance troubleshooting
 
-💼 PT. Trees Solutions | Back End Developer (2022)
- ┣ 🔹 API Development & System Integration
- ┗ 🔹 Debugging & Troubleshooting Backend Performance
+💼 PT. Trees Solutions | Back End Developer (2022 — 2022)
+ ┣ 🔹 Developing and maintaining backend features & services
+ ┣ 🔹 API creation & third-party service integration
+ ┗ 🔹 Identifying bugs & resolving performance bottlenecks
 
 💼 PT. Bangun Inovasi Teknologi | Programmer (2021 — 2022)
- ┣ 🔹 Planning, System Architecture & Database Design
- ┗ 🔹 Web Performance Management & Maintenance
+ ┣ 🔹 End-to-end software planning, design & system architecture
+ ┣ 🔹 Translating business requirements into scalable code
+ ┗ 🔹 System maintenance & website performance management
